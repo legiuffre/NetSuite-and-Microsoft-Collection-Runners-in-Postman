@@ -11,7 +11,7 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "41f94ae4-a503-48b8-9c40-586981780eda",
+						"id": "993f9905-10ae-4500-a25c-948ce8db0149",
 						"exec": [
 							"// Define the delay between each request (in milliseconds)\r",
 							"var delayBetweenRequests = 1000; // 1 second delay\r",
@@ -282,7 +282,7 @@
 				{
 					"listen": "prerequest",
 					"script": {
-						"id": "0ebc9f64-abd8-4aa2-85b2-3d6d41bc9de2",
+						"id": "197bd319-0b1b-4a31-a8f0-fff487f91cfa",
 						"exec": [
 							"const cyptojs = require('crypto-js');\r",
 							"\r",

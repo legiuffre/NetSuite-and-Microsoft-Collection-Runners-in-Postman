@@ -1050,7 +1050,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "7460be74-d7b2-4b3b-bb2d-29ec2b939699",
+				"id": "712951d1-1c40-436d-b61e-6e3709cead1c",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
@@ -1061,37 +1061,13 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "2adacd2b-a6e2-4e31-b491-a35b717363b9",
+				"id": "490b68fb-5b10-4995-8392-bd64afb24918",
 				"type": "text/javascript",
 				"packages": {},
 				"exec": [
 					""
 				]
 			}
-		}
-	],
-	"variable": [
-		{
-			"key": "ns_acct_url_id",
-			"value": ""
-		},
-		{
-			"key": "custom_search_script_id",
-			"value": ""
-		},
-		{
-			"key": "custom_search_col_script_id",
-			"value": ""
-		},
-		{
-			"key": "prod_ns_token_client_id",
-			"value": "e0d375ed0ba5e0bf3792e2dd3e5c1e86925f49e8b82322cab5b7bc7de8b1675e",
-			"type": "string"
-		},
-		{
-			"key": "prod_ns_token_client_secret",
-			"value": "98f03cdd7836e76a50cfe0a6709fa7ccc0b89def10a7a68bf1813f6d8304e63f",
-			"type": "string"
 		}
 	]
 }

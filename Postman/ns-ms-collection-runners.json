@@ -114,7 +114,7 @@
 							"                console.log('204 No Folder Received');\r",
 							"            } else if (truckFolderResponse.code === 401) {\r",
 							"                console.log(\"Invalid response: \" + truckFolderResponse.json().message);\r",
-							"            } else if (truckFolderResponse.code === 200 || truckFolderResponse.code === 201) {\r",
+							"            } else if (truckFolderResponse.code === 200 || truckFolderResponse.code === 201 || truckFolderResponse.code === 404) {\r",
 							"                var parsedVINFolder = truckFolderResponse.json();\r",
 							"                var value = parsedVINFolder.value;\r",
 							"\r",
